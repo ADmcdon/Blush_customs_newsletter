@@ -1,0 +1,132 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all padding="0" margin="0" font-size="0" />
+        </mj-attributes>
+        <mj-style>
+            a {
+                color:inherit;
+                text-decoration: none;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px"background-color="white">
+        <mj-section>
+            <mj-column>
+                <mj-text font-weight="bolder" color="#f8ccd5" align="center" font-size="120px">
+                    <img src="/imgs/Book Now.jpg" alt="" width="200px">
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="15px" background-color="#f8ccd5">
+            <mj-column  >
+               <mj-text align="center" font-size="24px">
+                Shop
+               </mj-text>
+            </mj-column>
+              <mj-column >
+               <mj-text align="center" font-size="24px">
+             Book Call
+               </mj-text>
+            </mj-column>
+              <mj-column >
+               <mj-text align="center" font-size="24px">
+                Handbags
+               </mj-text>
+            </mj-column>
+              <mj-column >
+               <mj-text align="center" font-size="24px">
+                Blog
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text padding="50px 20px 30px">
+                    <img src="/imgs/IMG_0237.jpg" width="250px" alt="">
+                </mj-text>
+              <mj-button border="1px solid black" font-size="20px" background-color="#f8ccd5" align="left" padding-left="20px" inner-padding="30px 80px" border-radius="50px">
+                SHOP Handbags
+              </mj-button>
+            </mj-column>
+            <mj-column>
+                
+                    <mj-button border="1px solid black" padding="20px" font-size="20px" background-color="#f8ccd5" border-radius="50px">
+                        Enjoy 10% of your first order
+                    </mj-button>
+                
+              <mj-button border="1px solid black" color="black" font-size="20px" background-color="rgb(255,255,243)" align="left" padding-left="20px" inner-padding="60px" border-radius="50px">
+                SHOP Handbags
+              </mj-button>
+              <mj-text align="center" padding="10px 10px 0px">
+                <img src="/imgs/IMG_0127.jpg" alt="Slingbag" width="250px">
+              </mj-text>
+             
+            </mj-column>
+             
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-divider border-width="25px" border-color="#f8ccd5" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text align="center" vertical-align="middle">
+                    <img src="/imgs/IMG_0185.jpg" width="250px"alt="">
+                </mj-text>
+                <mj-button background-color="#f8ccd5" font-size="15px">
+                    Shop
+                </mj-button>
+            </mj-column>
+              <mj-column >
+                <mj-text align="center" vertical-align="middle">
+                    <img src="/imgs/IMG_0189.jpg" width="250px"alt="">
+                </mj-text>
+                <mj-button background-color="#f8ccd5" font-size="15px">
+                    Shop
+                </mj-button>
+            </mj-column>
+        </mj-section>
+                <mj-section>
+            <mj-column padding="10px" >
+                <mj-text align="center" vertical-align="middle">
+                    <img src="/imgs/IMG_0117.jpg" width="250px"alt="">
+                </mj-text>
+                <mj-button background-color="#f8ccd5" font-size="15px">
+                    Shop
+                </mj-button>
+            </mj-column>
+              <mj-column padding="10px" >
+                <mj-text align="center" vertical-align="middle">
+                    <img src="/imgs/IMG_0120.jpg" width="250px"alt="">
+                </mj-text>
+                <mj-button background-color="#f8ccd5" font-size="15px">
+                    Shop
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="20px" background-color="#f8ccd5">
+       
+            <mj-column  width="400px">
+             <mj-social>
+            <mj-social-element padding="0px 10px" name="instagram">
+                
+            </mj-social-element>
+            <mj-social-element padding="0px 10px" name="facebook">
+                
+            </mj-social-element>
+            <mj-social-element padding="0px 10px" name="twitter">
+                
+            </mj-social-element>
+        </mj-social>
+                <mj-text padding="10px" font-size="12px">
+                    Copyright@ 2023 Blush Customs all right reserved
+                </mj-text>
+                <mj-text padding="0px 10px" font-size="12px">
+                    Contact email@email.com <a href="">Unsubscribe</a> 
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
